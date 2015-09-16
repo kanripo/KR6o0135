@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:30.075950
+#+DATE: 2015-08-30 21:01:31.304143
 #+TITLE: 一百五十讚佛頌
 #+PROPERTY: CBETA_ID T32n1680
 #+PROPERTY: ID KR6o0135
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1680
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0135_T_000-0758b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0135_T_001-0758b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1680¶
-
- 一百五十讚佛頌¶
+No. 1680¶
+一百五十讚佛頌¶
 ¶
 尊者摩咥里制吒造¶
 大唐沙門義淨於那爛陀寺譯¶
@@ -436,7 +435,7 @@ No.1680¶
 　迷途歸正道¶
 　善根成熟者
 　駕馭以三乘¶
-　𢤱悷不調人
+　[怡-台+龍]悷不調人
 　由悲故暫捨¶
 　於遭厄能設
 　安樂勸善修
