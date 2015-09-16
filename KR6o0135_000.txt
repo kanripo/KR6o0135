@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 一百五十讚佛頌
+#+DATE: 2015-08-30 21:01:30.273726
+#+PROPERTY: JUAN 0
