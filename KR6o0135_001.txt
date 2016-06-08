@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:30.075950
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:59
 #+TITLE: 一百五十讚佛頌
 #+PROPERTY: CBETA_ID T32n1680
 #+PROPERTY: ID KR6o0135
@@ -641,7 +641,7 @@ No.1680¶
 　我讚牟尼功德海
 　憑斯善業趣菩提¶
 　普願含生發勝心
-　永離凡愚虛妄識
+　永離凡愚虛妄識」
 #+END_VERSE
-」¶
+¶
 一百五十讚佛頌
